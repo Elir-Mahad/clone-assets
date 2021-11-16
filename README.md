@@ -1,1 +1,1 @@
-# This repo contains all the assets of for different coding tutorials.
+# This repo contains all the assets for different coding tutorials.
